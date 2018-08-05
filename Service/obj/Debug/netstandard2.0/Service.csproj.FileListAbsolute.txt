@@ -1,0 +1,10 @@
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\bin\Debug\netstandard2.0\Service.dll
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\obj\Debug\netstandard2.0\Service.dll
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service\obj\Debug\netstandard2.0\Service.pdb

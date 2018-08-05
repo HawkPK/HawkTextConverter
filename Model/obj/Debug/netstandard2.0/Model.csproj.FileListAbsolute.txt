@@ -1,0 +1,8 @@
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Model\obj\Debug\netstandard2.0\Model.pdb
