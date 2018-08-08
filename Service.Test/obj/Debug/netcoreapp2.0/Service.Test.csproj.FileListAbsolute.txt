@@ -16,3 +16,4 @@ C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\S
 C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service.Test\bin\Debug\netcoreapp2.0\Model.pdb
 C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service.Test\obj\Debug\netcoreapp2.0\Service.Test.dll
 C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service.Test\obj\Debug\netcoreapp2.0\Service.Test.pdb
+C:\Users\Hawk\Documents\Project\Recruitments\Nordea_20180804\HawkTextConverter\Service.Test\obj\Debug\netcoreapp2.0\Service.Test.csprojResolveAssemblyReference.cache
