@@ -5,10 +5,10 @@
     <div class='row'>
         <div class='col-sm-10'>
             <div class="form-group">
-                <label for="textToConvert">Text to convert:</label>
-                <textarea class="form-control" rows="5" id="ConvertToCsv"
+                <label for="ConvertText">Text to convert:</label>
+                <textarea class="form-control" rows="5" id="ConvertText"
                     #textContent
-                    (blur)="convertToCsv(textContent.value); convertToXml(textContent.value); convertToXml(textContent.value); textContent.value='' "></textarea>
+                    (blur)="convertToCsv(textContent.value); convertToXml(textContent.value); textContent.value='' "></textarea>
             </div>
         </div>
     </div>
@@ -19,19 +19,19 @@
     </div>
     <div class='row'>
         <div class="alert alert-primary" role="alert">
-            The text is not correct to convert !
+            
         </div>
     </div>
     <div class='row'>
         <div class='col-sm-5'>
             <div class="form-group">
-                <label for="csv">Csv:</label>
+                <label for="csv">Xml:</label>
                 <textarea class="form-control" rows="5" id="csv">{{this.csvTextFormat}}</textarea>
             </div>
         </div>
         <div class='col-sm-5'>
                 <div class="form-group">
-                        <label for="xml">Xml:</label>
+                        <label for="xml">Csv:</label>
                         <textarea class="form-control" rows="5" id="xml">{{xmlTextFormat}}</textarea>
                 </div>
         </div>
