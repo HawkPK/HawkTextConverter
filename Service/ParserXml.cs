@@ -1,10 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Text;
 using System.Xml;
+using System.Linq;
 using System.Xml.Serialization;
 using Model;
+using System.Text;
 
 namespace Service
 {
@@ -18,6 +18,7 @@ namespace Service
             {
                 XmlSerializer serializer = new XmlSerializer(text.GetType());
                 tw = new XmlTextWriter(sw);
+                tw.Formatting = Formatting.Indented;
                 XmlSerializerNamespaces ns = new XmlSerializerNamespaces();
                 ns.Add("", "");
                 serializer.Serialize(tw, text, ns);
@@ -34,7 +35,14 @@ namespace Service
                     tw.Close();
                 }
             }
-            return sw.ToString();
+
+            var swSplittedByLine = sw.ToString().Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries).ToList();
+            var xmlString = new StringBuilder();
+            foreach (var line in swSplittedByLine)
+            {
+                xmlString.Append($"{line.TrimStart(' ')}{Environment.NewLine}");
+            }
+            return xmlString.ToString();
         }
     }
 }

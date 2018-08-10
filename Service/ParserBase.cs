@@ -34,7 +34,7 @@ namespace Service
                 }
             }
             string textParsed = Parse(textFormatted);
-            return textParsed.ToString();
+            return textParsed;
         }
     }
 }
